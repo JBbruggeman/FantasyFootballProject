@@ -1,5 +1,5 @@
-# Search Bar Tutorial
+# Fantasy Football App
 
-If you want to watch the awesome tutorial for this application check out this link. <br/>
+This is the burgeoning app for the Brotherhood of the Travelling Pants, soon to replace the outdated and non-useful ESPN app.
 
-<a href="https://youtu.be/zgP_VHhkroE">Click for Video</a>
+-JB Bruggeman
